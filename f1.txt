@@ -2,3 +2,6 @@ Hi, this is Batch 1.
 
 <Modified here on>
 Good morning all.
+
+<Some text>
+This is the new text.
